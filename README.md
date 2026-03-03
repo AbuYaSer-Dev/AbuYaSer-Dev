@@ -75,6 +75,5 @@ Building modern, clean, and user-focused digital experiences.
 ## 📫 Connect With Me
 - Portfolio : Soon
 - Email : Kahfazan.dv@gmail.com  
-- GitHub : https://github.com/Kahfazan-Dv
 - Whatsapp : +963947278088
-- Instagram : https://instagram.com/aboyaser.dv
+- Instagram : https://instagram.com/abuyaser.dv
