@@ -86,7 +86,3 @@ Building modern, clean, and user-focused digital experiences.
 - Linked in : https://linkedin.com/in/abuyaserdev
 
 ---
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Kahfazan-Dv/Kahfazan-Dv/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
-</p>
