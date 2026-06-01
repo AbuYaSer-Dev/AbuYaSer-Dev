@@ -8,30 +8,30 @@ Building modern, clean, and user-focused digital experiences.
 ---
 
 ## 🚀 About Me
-- Passionate about technology and problem-solving  
-- Focused on building reliable and scalable digital solutions  
-- Always learning, improving, and refining my craft  
+- Passionate about technology and problem-solving  
+- Focused on building reliable and scalable digital solutions  
+- Always learning, improving, and refining my craft  
 
 ---
 
 ## 🛠 What I Do
-- Develop modern front-end web applications  
-- Build interactive and performance-focused user experiences  
-- Turn ideas into clean, functional digital products  
+- Develop modern front-end web applications  
+- Build interactive and performance-focused user experiences  
+- Turn ideas into clean, functional digital products  
 
 ---
 
 ## 🧩 Tech Stack
 
 <p>
-  <img src="https://img.shields.io/badge/Frontend-Modern-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/UI-Clean-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Performance-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Frontend-Modern-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/UI-Clean-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Performance-orange?style=for-the-badge" />
 </p>
 
 ---
 
-## 🌐 Languages & Frameworks 
+## 🌐 Languages & Frameworks 
 ### Front-End :
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -45,12 +45,14 @@ Building modern, clean, and user-focused digital experiences.
 ### Back-End ( Familiar With ) :
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&whiteColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 
 ### DataBases ( Familiar With ) :
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
@@ -74,6 +76,13 @@ Building modern, clean, and user-focused digital experiences.
 
 ## 📫 Connect With Me
 - Portfolio : Soon
-- Email : Kahfazan.dv@gmail.com  
+- Email : Kahfazan.dv@gmail.com  
 - Whatsapp : +963947278088
 - Instagram : https://instagram.com/abuyaser.dv
+- Linked in : https://linkedin.com/in/abuyaserdev
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Kahfazan-Dv/Kahfazan-Dv/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
+</p>
