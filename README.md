@@ -70,7 +70,11 @@ Building modern, clean, and user-focused digital experiences.
 
 ## 📊 GitHub Stats :
 
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kahfazan-Dv&theme=default)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kahfazan-Dv/Kahfazan-Dv/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kahfazan-Dv/Kahfazan-Dv/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Kahfazan-Dv/Kahfazan-Dv/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
